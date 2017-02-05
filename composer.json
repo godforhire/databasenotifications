@@ -1,0 +1,25 @@
+{
+    "name": "godforhire/databasenotifications",
+    "description": "Database notifications driver for Laravel 5.3 and up",
+    "homepage": "https://github.com/godforhire/databasenotifications",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "godforhire"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/notifications": "^5.3",
+        "illuminate/support": "^5.3",
+        "nesbot/carbon": "^1.22"
+    },
+    "autoload": {
+        "psr-4": {
+            "godforhire\\DatabaseNotifications\\": "src"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
