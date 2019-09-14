@@ -1,10 +1,10 @@
-# Database Notification Channel for Laravel 5.3 and up
+# Database Notification Channel for Laravel 6
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/godforhire/databasenotifications.svg?style=flat-square)](https://packagist.org/packages/godforhire/databasenotifications)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Total Downloads](https://img.shields.io/packagist/dt/godforhire/databasenotifications.svg?style=flat-square)](https://packagist.org/packages/godforhire/databasenotifications)
 
-This package makes it easy to send database notifications with Laravel 5.3 and up from third-party packages. Those often allow you to send mail or slack notifications, but with this package you can also send them to the notification table.
+This package makes it easy to send database notifications with Laravel 6 and up from third-party packages. Those often allow you to send mail or slack notifications, but with this package you can also send them to the notification table.
 For others, simply use Laravel's own notifications.
 
 ## Contents
